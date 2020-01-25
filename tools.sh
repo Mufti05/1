@@ -2,6 +2,8 @@
 #script1
 clear 
 sleep 2
+figlet by mufti
+echo "[tunggu update tools terbaru dari Mr.MUFTI]"
 echo "silahkan perkenalkan nama anda"
 read -p "nama saya:" nm
 clear 
