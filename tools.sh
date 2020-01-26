@@ -73,7 +73,7 @@ then
     git clone https://github.com/ibnusyawall/spam-wa
     cd spam-wa
     npm i
-    node indexs.js
+    node index.js
 fi
 
 if [ $tl = 0 ]
@@ -88,4 +88,4 @@ then
     figlet by mufti
     sleep 2
     exit
-fi 
+fi
